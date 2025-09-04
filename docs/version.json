@@ -1,5 +1,5 @@
 {
-    "latestVersion": "0.0.1",
-    "apkUrl": "https://example.com/GalaxySynergy-1.0.0.apk",
-    "changelog": "Initial mobile build."
+    "latestVersion": "0.0.2",
+    "apkUrl": "https://github.com/Lessero/galaxy/releases/download/buttons/galaxysynergy.apk",
+    "changelog": "Buttons now work"
   }
