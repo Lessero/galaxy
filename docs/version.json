@@ -1,5 +1,5 @@
 {
-    "latestVersion": "0.0.7",
+    "latestVersion": "0.0.8",
     "apkUrl": "https://github.com/Lessero/galaxy/releases/download/build/com.nogamestoplay.galaxysynergy.apk",
-    "changelog": "Checking updates"
+    "changelog": "Saves/autosaves + offline income"
   }
